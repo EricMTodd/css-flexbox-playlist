@@ -21,7 +21,6 @@ body {
 .box {
   height: 100px;
   min-width: 100px;
-  float: left;
 }
 
 .one {
